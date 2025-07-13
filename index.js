@@ -4,7 +4,7 @@ import express from"express"
 const app = express()
 
 app.use("/",(req,res)=>{
-    res.json("api is working")
+    res.json("api is running")
 })
 
 
