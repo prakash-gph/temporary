@@ -9,4 +9,4 @@ app.use("/",(req,res)=>{
 
 
 
-app.listen(9000,()=>console.log("server is running http://localhost:9000"))
+app.listen(8000,()=>console.log("server is running http://localhost:8000"))
